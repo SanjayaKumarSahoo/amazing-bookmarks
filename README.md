@@ -5,4 +5,5 @@ All collected bookmarks
 - Reactive programming
   - https://www.reactivemanifesto.org
   - http://www.reactive-streams.org
+  - https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7
 
