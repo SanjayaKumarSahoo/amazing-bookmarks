@@ -17,3 +17,4 @@ All collected bookmarks
   - https://medium.com/@darutk/diagrams-and-movies-of-all-the-oauth-2-0-flows-194f3c3ade85
 - Multithreading
   - http://tutorials.jenkov.com/java-concurrency/index.html
+  - http://tutorials.jenkov.com/java-util-concurrent/index.html
