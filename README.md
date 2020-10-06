@@ -15,5 +15,5 @@ All collected bookmarks
 - OAuth
   - https://auth0.com/docs/authorization/which-oauth-2-0-flow-should-i-use
   - https://medium.com/@darutk/diagrams-and-movies-of-all-the-oauth-2-0-flows-194f3c3ade85
- - Multithreading
+- Multithreading
   - http://tutorials.jenkov.com/java-concurrency/index.html
