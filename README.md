@@ -18,3 +18,5 @@ All collected bookmarks
 - Multithreading
   - http://tutorials.jenkov.com/java-concurrency/index.html
   - http://tutorials.jenkov.com/java-util-concurrent/index.html
+- Datastructure & algo's
+  - https://www.bigocheatsheet.com
