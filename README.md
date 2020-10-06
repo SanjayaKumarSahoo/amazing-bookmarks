@@ -12,6 +12,7 @@ All collected bookmarks
   - https://novoj.github.io/reveal.js/kappa-architecture.html
   - https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
   - https://milinda.pathirage.org/kappa-architecture.com
+  - https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem
 - OAuth
   - https://auth0.com/docs/authorization/which-oauth-2-0-flow-should-i-use
   - https://medium.com/@darutk/diagrams-and-movies-of-all-the-oauth-2-0-flows-194f3c3ade85
