@@ -6,4 +6,6 @@ All collected bookmarks
   - https://www.reactivemanifesto.org
   - http://www.reactive-streams.org
   - https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7
-
+- Distributed system design
+  - http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html
+  - https://milinda.pathirage.org/kappa-architecture.com
