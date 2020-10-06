@@ -8,4 +8,7 @@ All collected bookmarks
   - https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7
 - Distributed system design
   - http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html
+  - https://www.oreilly.com/ideas/questioning-the-lambda-architecture
+  - https://novoj.github.io/reveal.js/kappa-architecture.html
+  - https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
   - https://milinda.pathirage.org/kappa-architecture.com
