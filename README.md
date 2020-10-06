@@ -14,3 +14,4 @@ All collected bookmarks
   - https://milinda.pathirage.org/kappa-architecture.com
 - OAuth
   - https://auth0.com/docs/authorization/which-oauth-2-0-flow-should-i-use
+  - https://medium.com/@darutk/diagrams-and-movies-of-all-the-oauth-2-0-flows-194f3c3ade85
