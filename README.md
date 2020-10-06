@@ -21,3 +21,5 @@ All collected bookmarks
   - http://tutorials.jenkov.com/java-util-concurrent/index.html
 - Datastructure & algo's
   - https://www.bigocheatsheet.com
+- Architecture
+  - https://blog.octo.com/en/hexagonal-architecture-three-principles-and-an-implementation-example
