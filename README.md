@@ -23,3 +23,5 @@ All collected bookmarks
   - https://www.bigocheatsheet.com
 - Architecture
   - https://blog.octo.com/en/hexagonal-architecture-three-principles-and-an-implementation-example
+- Messaging System
+  - https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/
