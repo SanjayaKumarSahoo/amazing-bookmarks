@@ -25,3 +25,5 @@ All collected bookmarks
   - https://blog.octo.com/en/hexagonal-architecture-three-principles-and-an-implementation-example
 - Messaging System
   - https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/
+- Bigdata file formats
+  - https://blog.clairvoyantsoft.com/big-data-file-formats-3fb659903271
