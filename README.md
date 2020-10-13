@@ -27,3 +27,5 @@ All collected bookmarks
   - https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/
 - Bigdata file formats
   - https://blog.clairvoyantsoft.com/big-data-file-formats-3fb659903271
+- Miscelaneous
+  - https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared
