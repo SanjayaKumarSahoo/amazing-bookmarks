@@ -34,3 +34,4 @@ All collected bookmarks
   - https://www.edureka.co/blog/spark-architecture
 - Graph
   - https://tinkerpop.apache.org
+  - https://jena.apache.org
