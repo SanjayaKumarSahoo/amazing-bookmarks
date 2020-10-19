@@ -32,3 +32,5 @@ All collected bookmarks
   - https://docs.oracle.com/cd/B10500_01/server.920/a96520/schemas.htm
 - Spark
   - https://www.edureka.co/blog/spark-architecture
+- Graph
+  - https://tinkerpop.apache.org
