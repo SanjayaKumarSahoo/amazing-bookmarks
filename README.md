@@ -29,5 +29,6 @@ All collected bookmarks
   - https://blog.clairvoyantsoft.com/big-data-file-formats-3fb659903271
 - Miscelaneous
   - https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared
+  - https://docs.oracle.com/cd/B10500_01/server.920/a96520/schemas.htm
 - Spark
   - https://www.edureka.co/blog/spark-architecture
