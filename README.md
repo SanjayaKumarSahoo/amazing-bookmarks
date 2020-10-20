@@ -35,3 +35,5 @@ All collected bookmarks
 - Graph
   - https://tinkerpop.apache.org
   - https://jena.apache.org
+- ML
+  - https://machinelearningmastery.com
