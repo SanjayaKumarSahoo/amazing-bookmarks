@@ -41,3 +41,4 @@ All collected bookmarks
 - Probabilistic datastructures
   - https://www.slideshare.net/gakhov/probabilistic-data-structures-part-1-membership
   - https://www.slideshare.net/gakhov/probabilistic-data-structures-part-2-cardinality
+  - https://www.slideshare.net/gakhov/probabilistic-data-structures-part-3-frequency
