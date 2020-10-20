@@ -38,3 +38,6 @@ All collected bookmarks
   - https://jena.apache.org
 - ML
   - https://machinelearningmastery.com
+- Probabilistic datastructures
+  - https://www.slideshare.net/gakhov/probabilistic-data-structures-part-1-membership
+  - https://www.slideshare.net/gakhov/probabilistic-data-structures-part-2-cardinality
