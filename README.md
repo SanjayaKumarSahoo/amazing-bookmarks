@@ -31,6 +31,7 @@ All collected bookmarks
 - Miscelaneous
   - https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared
   - https://docs.oracle.com/cd/B10500_01/server.920/a96520/schemas.htm
+  - https://raft.github.io
 - Spark
   - https://www.edureka.co/blog/spark-architecture
 - Graph
