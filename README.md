@@ -43,3 +43,7 @@ All collected bookmarks
   - https://www.slideshare.net/gakhov/probabilistic-data-structures-part-1-membership
   - https://www.slideshare.net/gakhov/probabilistic-data-structures-part-2-cardinality
   - https://www.slideshare.net/gakhov/probabilistic-data-structures-part-3-frequency
+- BigData
+  - https://amplab.cs.berkeley.edu/for-big-data-moores-law-means-better-decisions
+  - https://www.chrisstucchio.com/blog/2013/hadoop_hatred.html
+  - https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html
