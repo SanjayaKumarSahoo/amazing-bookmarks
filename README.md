@@ -34,6 +34,7 @@ All collected bookmarks
   - https://raft.github.io
 - Spark
   - https://www.edureka.co/blog/spark-architecture
+  - https://databricks.com/blog/2015/06/22/understanding-your-spark-application-through-visualization.html
 - Graph
   - https://tinkerpop.apache.org
   - https://jena.apache.org
