@@ -49,3 +49,6 @@ All collected bookmarks
   - https://www.chrisstucchio.com/blog/2013/hadoop_hatred.html
   - https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html
   - https://www.infoq.com/presentations/abstract-algebra-analytics/
+ 
+- Language
+  - https://medium.com/better-programming/modern-languages-suck-ad21cbc8a57c
