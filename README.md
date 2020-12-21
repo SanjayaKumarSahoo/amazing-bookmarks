@@ -52,3 +52,5 @@ All collected bookmarks
  
 - Language
   - https://medium.com/better-programming/modern-languages-suck-ad21cbc8a57c
+- Stream processing
+  - https://blog.scottlogic.com/2018/07/06/comparing-streaming-frameworks-pt1.html
