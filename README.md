@@ -54,3 +54,6 @@ All collected bookmarks
   - https://medium.com/better-programming/modern-languages-suck-ad21cbc8a57c
 - Stream processing
   - https://blog.scottlogic.com/2018/07/06/comparing-streaming-frameworks-pt1.html
+- CRDT
+  - https://martin.kleppmann.com/2020/07/06/crdt-hard-parts-hydra.html
+  - https://www.baeldung.com/java-conflict-free-replicated-data-types
