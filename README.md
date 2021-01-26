@@ -59,3 +59,5 @@ All collected bookmarks
   - https://www.baeldung.com/java-conflict-free-replicated-data-types
 - DB architectures
   - https://www.edureka.co/blog/hbase-architecture
+- Consensus Algorithm
+  - https://raft.github.io/
