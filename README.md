@@ -57,3 +57,5 @@ All collected bookmarks
 - CRDT
   - https://martin.kleppmann.com/2020/07/06/crdt-hard-parts-hydra.html
   - https://www.baeldung.com/java-conflict-free-replicated-data-types
+- DB architectures
+  - https://www.edureka.co/blog/hbase-architecture
