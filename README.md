@@ -60,5 +60,6 @@ All collected bookmarks
 - DB architectures
   - https://www.edureka.co/blog/hbase-architecture
   - https://docs.datastax.com/en/cassandra-oss/3.0/cassandra/architecture/archTOC.html
+  - https://www.simplilearn.com/cassandra-architecture-tutorial-video
 - Consensus Algorithm
   - https://raft.github.io/
