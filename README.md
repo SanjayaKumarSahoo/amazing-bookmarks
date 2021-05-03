@@ -64,3 +64,6 @@ All collected bookmarks
   - https://www.simplilearn.com/cassandra-architecture-tutorial-video
 - Consensus Algorithm
   - https://raft.github.io/
+- LSM
+  -  http://www.benstopford.com/2015/02/14/log-structured-merge-trees/
+  -  blog.acolyer.org/2014/11/26/the-log-structured-merge-tree-lsm-tree/
